@@ -3,7 +3,7 @@ const PORT="5000"
 const cloudinary_cloud_name="diutgjcc8"
 const cloudinary_api_key="654831925494494"
 const cloudinary_api_secret="doal1hg4"
-const mongo_url="mongodb+srv://rehansingh4522:devraj@cluster0.859ijdu.mongodb.net/?retryWrites=true&w=majority"
+const mongo_url="mongodb+srv://rehansingh4522:devraj@cluster0.o1d2byk.mongodb.net/?retryWrites=true&w=majority"
 const jwt_secret="devraj"
 
 process.env.NODE_ENV = NODE_ENV;
